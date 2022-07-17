@@ -1,8 +1,8 @@
 Hi 👋!
 
-I’m a sophomore at Brown University concentrating in computer science.
+I’m a rising junior at Brown University concentrating in Applied Math-Computer Science with the AI/ML pathway.
 
-As an undergraduate research assistant at the Brown Visual Computing Lab, I'm currently working on a MERN stack web app for hypermedia-based knowledge work. Check it out [here](https://browndash.com/)!
+I currently work as a Software Engineering Intern at a San Francisco-based startup called Kapwing, where I'm developing an AI video editing toolkit (scene cut detection, content-aware video resizing, background blur, etc.) with React-Redux, Flask, Express, MongoDB, FFmpeg, and the MediaPipe C++ API.
 
 <!---
 dg314/dg314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
